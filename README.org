@@ -1,0 +1,6 @@
+#+TITLE: My build of emacs.d
+
+* Install
+Just clones this repository and not forget backup your ~/.emacs.d
+
+Please open an issue if you have any problem.
